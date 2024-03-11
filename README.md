@@ -5,4 +5,5 @@
 <h3>-Tecnologias usadas:</h3>
 <br>
 <p>- HTML</p>
--CSS
+<p>-CSS</p>
+<br>
